@@ -19,3 +19,6 @@ Day4 - 04-01-2022
 	- Gone through Struct,Unions,Typedefs.
 	- Gone through Bitwise operators and Preprocessors.
 
+Day5 - 05-01-2022
+	- Structure which includes function pointer
+
