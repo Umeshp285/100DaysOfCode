@@ -22,3 +22,6 @@ Day4 - 04-01-2022
 Day5 - 05-01-2022
 	- Structure which includes function pointer
 
+Day6 - 06-01-2022
+	- Reverse string
+
