@@ -25,3 +25,6 @@ Day5 - 05-01-2022
 Day6 - 06-01-2022
 	- Reverse string
 
+Day7 - 07-01-2022
+	Concatenate two string without strcat.
+
